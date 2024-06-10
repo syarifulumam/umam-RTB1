@@ -1,0 +1,5 @@
+git branch [branch-name] = buat branch baru
+
+git checkout = berpindah ke branch lain
+
+git merge [branch] = merge antar branch
