@@ -1,0 +1,11 @@
+git branch [branch-name] = buat branch baru
+
+git checkout = berpindah ke branch lain
+
+git merge [branch] = merge antar branch
+
+git init = untuk initial git
+
+git add temp.txt = untuk menambah file temp.text
+or
+git add . = untuk menambah semua file
